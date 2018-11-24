@@ -62,8 +62,7 @@ pH7CMS (ahora conocido como pH7Builder) se incluye con 35 módulos y se basa en 
 ## Author
 
 Codificado y diseñado con mucho ❤️ por:
-*[Pierre-Henry Soria]. A passionate Belgian software engineer 🍫🍺
-*[Jose E. Mena D]. Joven Estudiante de Cs. de la Computacion BUAP
+* [Jose E. Mena D]. Joven Estudiante de Cs. de la Computacion BUAP
 
 ## Contact
 
